@@ -1,18 +1,19 @@
 .card{ 
-    width:100%;
+    width:90%;
     margin-right: 50px;
     display: block;
     text-align: center; 
 }
 .image{
-    width:500px;
-    height: 500px;
+    width:400px;
+    height: 400px;
     display: flex;
     margin: auto;
     
 }
 .dots{
     display: block;
+
     
 }
 /* .name, .location{
@@ -20,7 +21,8 @@
     float:right;
 } */
 .heart ,.plane{
-    margin: 15px;
+    margin: 0 px;
+
 }
 .likes{
     display: block;
@@ -30,6 +32,6 @@
     margin-right: 0px;
 }
 .descriptions{
-    width:100%;
+    width:90%;
     margin:50px;
 }
